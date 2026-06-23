@@ -1,1 +1,1 @@
-#file to create and store attributes that affect weaknesses, strength, vulnerability, resistance, etc
+#file to create and store combat based attributes that affect weaknesses, strength, vulnerability, resistance, etc
